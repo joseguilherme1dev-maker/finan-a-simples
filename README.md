@@ -1,4 +1,9 @@
-# FinançaSimples (Hackathon)
+# Integrantes:
+José Guilherme Pinheiro de Oliveira, Lohan Fonseca Batista, Asafe Piedade Gonçalves, Anderson José Luz Barbosa, Manoel Henrique farias dos Santos, Allan Henrique Alves Hayashida
+
+---
+
+# FinançaSimples
 
 Aplicação web para **controle financeiro pessoal** com dashboard de movimentações e **calendário de lembretes de contas** (editável).
 
